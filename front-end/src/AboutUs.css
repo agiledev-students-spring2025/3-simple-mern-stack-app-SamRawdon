@@ -1,0 +1,15 @@
+.about-us {
+    text-align: left;
+    padding: 20px;
+}
+.description {
+    white-space: pre-line;
+}
+.aboutus-image {
+    margin-bottom: 20px;
+    width: 50%; 
+    max-width: 300px;
+    height: auto; 
+    display: block;
+    margin: 0 auto;
+}
